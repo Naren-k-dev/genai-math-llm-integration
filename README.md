@@ -117,7 +117,7 @@ if message.get("function_call"):
     print("Volume of Cylinder =", result)
 ```
 ### Output:
-![alt text](<../exp1 output.png
+![alt text](<exp1 output.png>)
 
 ### RESULT
 Thus, the Python function for calculating the volume of a cylinder was successfully integrated with a chat completion system using the function-calling capability of a Large Language Model (LLM). The LLM successfully identified the appropriate function and extracted the required parameters from the user query, while Python executed the actual mathematical computation and generated the final result.
